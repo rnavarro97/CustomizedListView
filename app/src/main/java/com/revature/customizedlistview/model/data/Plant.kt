@@ -1,4 +1,4 @@
-package com.revature.customizedlistview
+package com.revature.customizedlistview.model.data
 
 data class Plant(
     val id:Int,
